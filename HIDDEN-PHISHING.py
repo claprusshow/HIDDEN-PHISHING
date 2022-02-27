@@ -24,11 +24,11 @@ def cutlink():
 # Маскировка ссылки
 def masklink():
 	print("\nhttps://www.google.com/url?q=" + link_input)
-	print("https://www.youtube.com/redirect?q=" + link_input)
-	print("https://vk.com/away.php?photo435_33&to=" + link_input)
-	print("https://l.facebook.com/l.php?u=" + link_input)
-	print("https://m.ok.ru/dk?__dp=y&_prevCmd=altGroupMain&st.cln=off&st.cmd=outLinkWarning&st.rfn=" + link_input)
-	print("https://raidforums.com/misc.php?action=safelinks&url=" + link_input)
+	print("\n\nhttps://www.youtube.com/redirect?q=" + link_input)
+	print("\nhttps://vk.com/away.php?photo435_33&to=" + link_input)
+	print("\n\n\nhttps://l.facebook.com/l.php?u=" + link_input)
+	print("\n\nhttps://m.ok.ru/dk?__dp=y&_prevCmd=altGroupMain&st.cln=off&st.cmd=outLinkWarning&st.rfn=" + link_input)
+	print("\nhttps://raidforums.com/misc.php?action=safelinks&url=" + link_input)
 
 # Пункты и баннер
 
